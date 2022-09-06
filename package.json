@@ -1,0 +1,24 @@
+{
+  "name": "usaf-cookies-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cookie.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangoflyte/usaf-cookies-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangoflyte/usaf-cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/jangoflyte/usaf-cookies-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
